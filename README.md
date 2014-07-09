@@ -1,0 +1,1 @@
+packerを使って、vagrantのboxをサクッと作れるようにする。
